@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1> Welcome to this amazing new journey with me! :sparkles: </h1>
 
-<!--
-**kethydeliperi/kethydeliperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+ <a href="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
+  <img align="top" alt="Rafa-pic" height="100" style="border-radius:50px;" alt="gif-coffee" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
+</a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/kethydeliperi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kethydeliperi&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethydeliperi&layout=compact&langs_count=16&theme=codeSTACKr"/>
+</div>
