@@ -1,4 +1,4 @@
-<h2> Welcome to this amazing journey with me! :sparkles: </h2>
+<h3> Welcome to this amazing journey with me! :sparkles: </h3>
 
 
 <div style="display: inline_block"><br>
