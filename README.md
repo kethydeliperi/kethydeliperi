@@ -1,6 +1,6 @@
 <h1> Olá, meu nome Kethyllen! </h1>
 
-<h2> Welcome to this amazing journey with me! :sparkles: </h2>
+<h2> Welcome to this amazing journey with me :sparkles: </h2>
 
 
 <div style="display: inline_block"><br>
